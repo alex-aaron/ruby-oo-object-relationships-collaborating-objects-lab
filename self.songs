@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /home/mrwigand/Development/code/ruby-oo-object-relationships-collaborating-objects-lab/lib/artist.rb @ line 37 :
+
+    [1;34m32[0m:             find_artist
+    [1;34m33[0m:         [32melse[0m
+    [1;34m34[0m:             [1;36mself[0m.new(name)
+    [1;34m35[0m:         [32mend[0m
+    [1;34m36[0m:     [32mend[0m
+ => [1;34m37[0m: binding.pry
+    [1;34m38[0m:     [32mdef[0m [1;34mprint_songs[0m
+    [1;34m39[0m:         print [1;36mself[0m.songs
+    [1;34m40[0m:     [32mend[0m
+    [1;34m41[0m: 
+    [1;34m42[0m: [32mend[0m
+
